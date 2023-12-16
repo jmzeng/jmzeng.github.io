@@ -19,6 +19,7 @@ abstract: One of the main challenges of deep learning tools is their inability t
   with the MNIST dataset. We found that we can fully capture the model uncertainty
   by using only a few Bayesian layers near the output of the network, combining the
   advantages of deterministic and Bayesian networks.
+summary: Our work explores whether fully Bayesian networks are needed to successfully capture model uncertainty.
 tags:
 - Computer Science - Artificial Intelligence
 - Computer Science - Machine Learning

@@ -42,6 +42,10 @@ abstract: PURPOSE Knowing the treatments administered to patients with cancer is
   improves upon the performance using billing codes and simple structured data. The
   approach can be used for treatment cohort identification and adapted for longitudinal
   cancer treatment identification.
+summary: We develop a natural language processing approach with structured electronic medical
+  records and unstructured clinical notes to identify the initial treatment administered
+  to patients with cancer.
+
 featured: true
 links:
 - name: URL
