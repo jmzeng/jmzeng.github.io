@@ -96,7 +96,7 @@ social:
     link: 'mailto:jiaming.zeng@stanford.alumni.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/jayemzng
     label: Follow me on Twitter
     display:
       header: true
