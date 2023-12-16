@@ -30,4 +30,6 @@ links:
   url: https://today.duke.edu/2017/07/opening-lid-criminal-sentencing-software
 - name: Github
   url: https://github.com/ustunb/recidivism-prediction
+- name: Presentation
+  url: https://www.causeweb.org/usproc/sites/default/files/eusrc/recordings/eusrc15_Jiaming.mp4
 ---

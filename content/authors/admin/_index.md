@@ -120,5 +120,13 @@ social:
 highlight_name: true
 ---
 
-Jiaming Zeng is a Senior Machine Learning Researcher at AKASA, where she leads the efforts in adapting LLMs for automating clinical workflow. She works on adapting existing NLP techniques to tackle challenges in the clinical setting. Her research interests include interpretable nlp, causal inference, identifying uncertainty.
+Jiaming Zeng is a Senior Machine Learning Researcher at AKASA, where she leads the efforts in adapting LLMs for automating clinical workflow. She works on adapting existing NLP techniques to tackle challenges in the clinical setting. 
+
+Jiaming received her PhD from <a href="https://msande.stanford.edu/">Management Science and Engineering</a> at Stanford University working with <a href="https://web.stanford.edu/~shachter/">Professor Ross Shachter</a>, <a href="https://athey.people.stanford.edu/">Professor Susan Athey</a>, and <a href="https://profiles.stanford.edu/daniel-rubin/">Professor Daniel Rubin</a>. Her research focused on employing causal models and machine learning to develop interpretable models for medical decision making. 
+
+In 2015, she graduated with a BSc in Mathematics with Computer Science from <a href="http://web.mit.edu/">Massachusetts Institute of Technology. While at MIT, she worked with <a href="https://users.cs.duke.edu/~cynthia/">Professor Cynthia Rudin</a> to develop interpretable machine learning models for predicting prisoner recidivism. The work won first prize in the 2015 USPROC Undergraduate Statistics Research Competition and has been featured in various <a href="https://today.duke.edu/2017/07/opening-lid-criminal-sentencing-software">news</a> articles. Before starting at Stanford, she spend a year working as a Software Engineer at Oracle. In 2017, she worked with Professor Daniel Rubin and Prof. Ross Shachter to develop AI tool that can assist radiologists to interpret mammographs more accurately (<a href="https://engineering.stanford.edu/magazine/article/ai-could-help-radiologists-interpret-mammograms-more-accurately">news</a>).
+
+In summer 2019, she worked as an AI Resident at <a href="https://x.company">X, the Moonshot Factory</a> (formerly Google[x]) to increase sustainable fishing and protect the ocean. In summer 2018, she was an AI Research intern on the <a href="https://www.nvidia.com/en-us/">NVIDIA</a> AI Infrastructure team, working on practical ways to capture uncertainty in neural networks; the work was published at a <a href="https://arxiv.org/pdf/1811.12535.pdf">NeurIPS workshop.
+
+In her freetime, she enjoys reading, writing, being out in nature, and learning about other cultures.
 {style="text-align: justify;"}
