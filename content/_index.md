@@ -131,13 +131,22 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
+  - block: accomplishments
     id: news
     content:
-      title: In the news
-      filters:
-        folders:
-          - event
+      title: In the News
+      date_format: Jan 2006
+      items:
+        - organization: Stanford Institute of Human-Centered Artificial Intelligence
+          organization_url: https://hai.stanford.edu/
+          date_start: '2021-03-29'
+          title: Using Clinical Text to Combat Selection Bias in Medical Research
+          url: https://hai.stanford.edu/news/using-clinical-text-combat-selection-bias-medical-research
+        - organization: Stanford School of Engineering
+          organization_url: https://engineering.stanford.edu/
+          date_start: '2019-06-03'
+          title: AI could help radiologists interpret mammograms more accurately
+          url: https://engineering.stanford.edu/magazine/article/ai-could-help-radiologists-interpret-mammograms-more-accurately
     design:
       columns: '2'
       view: compact
