@@ -108,7 +108,7 @@ social:
     link: https://github.com/jmzeng
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jiaming-zeng-2919a144/
+    link: https://www.linkedin.com/in/jiaming-zeng-phd-2919a144/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
