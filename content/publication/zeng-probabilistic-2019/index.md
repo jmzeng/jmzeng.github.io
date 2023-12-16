@@ -36,6 +36,7 @@ abstract: We developed a probabilistic model to support the classification decis
   the conservativeness of clinical practice and allows us to quantify the variability
   in sensitivity across and within institutions. Our model could provide support to
   radiologists to improve their performance and consistency within mammography practice.
+
 links:
 - name: URL
   url: http://journals.sagepub.com/doi/10.1177/0272989X19832914

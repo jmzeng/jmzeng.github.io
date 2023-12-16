@@ -23,6 +23,7 @@ tags:
 - Computer Science - Artificial Intelligence
 - Computer Science - Machine Learning
 - Statistics - Machine Learning
+featured: true
 links:
 - name: URL
   url: http://arxiv.org/abs/1811.12535

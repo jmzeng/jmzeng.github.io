@@ -42,7 +42,10 @@ abstract: PURPOSE Knowing the treatments administered to patients with cancer is
   improves upon the performance using billing codes and simple structured data. The
   approach can be used for treatment cohort identification and adapted for longitudinal
   cancer treatment identification.
+featured: true
 links:
 - name: URL
   url: https://ascopubs.org/doi/10.1200/CCI.20.00173
+- name: Github
+  url: https://github.com/jmzeng/cancer_treatment_identification
 ---
