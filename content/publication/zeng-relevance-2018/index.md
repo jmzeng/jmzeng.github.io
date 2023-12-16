@@ -30,4 +30,6 @@ links:
   url: http://arxiv.org/abs/1811.12535
 - name: Github
   url: https://github.com/tensorflow/probability/tree/main/tensorflow_probability/examples 
+- name: Poster
+  link: uploads/BDL-Poster-A-1_v2.pdf
 ---

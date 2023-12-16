@@ -16,4 +16,6 @@ links:
   url: https://ojs.aaai.org/index.php/AAAI/article/view/7263
 - name: Github
   url: https://github.com/jmzeng/cancer_treatment_identification
+- name: Poster
+  link: uploads/aaai-sa-poster.pdf
 ---

@@ -10,4 +10,6 @@ publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/7143
+- name: Poster
+  link: uploads/aaai-dc-poster.pdf
 ---
