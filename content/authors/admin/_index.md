@@ -30,7 +30,8 @@ bio: My research interests include interpretable NLP, causal inference, quantify
 interests:
   - Natural Language Processing
   - Causal Inference
-  - Medical Decision Making
+  - Decision Making
+  - Clinical Informatics
   - Quantifying Uncertainty
 
 # Education to show in About widget
@@ -126,6 +127,6 @@ Jiaming received her PhD from Stanford University working with <a href="https://
 
 She did her postdoc at IBM Research's Computational Health group, working on identifying and mitigating bias present in clinical data. Previously, she worked as an AI Resident at <a href="https://x.company">X, the Moonshot Factory</a> (formerly Google[x]) to increase sustainable fishing and protect the ocean. She was also an AI Research intern on the <a href="https://www.nvidia.com/en-us/">NVIDIA</a> AI Infrastructure team, working on practical ways to capture uncertainty in neural networks. 
 
-Jiaming's research has been <a href="#featured">published</a> in channels such as Nature Communications, JCO Clinical Informatics, NeurIPS, etc. Her work has also been featured in various <a href="#news">news channels</a>. In her freetime, she enjoys reading, writing, being out in nature, and learning about other cultures.
+Jiaming's research has been <a href="#featured">published</a> in channels such as Nature Communications, JCO Clinical Informatics, NeurIPS, etc. Her work has also been featured in various <a href="#news">news</a> channels. In her freetime, she enjoys reading, writing, being out in nature, and learning about other cultures.
 
 {style="text-align: justify;"}
