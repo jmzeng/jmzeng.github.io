@@ -42,21 +42,6 @@ slides:
 
 ---
 
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-
-```
-python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
-
----
-
 ## Math
 
 In-line math: $x + y = z$
