@@ -8,7 +8,6 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Advisor'
 
 date: '2017-01-01'
 publishDate: '2023-12-16T17:13:24.183772Z'
