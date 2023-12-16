@@ -24,15 +24,15 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include interpretable NLP, causal inference, quantifying uncertainty.
+bio: My research interests include interpretability, NLP, causal inference, and quantifying uncertainty.
 
 # Interests to show in About widget
 interests:
   - Natural Language Processing
+  - Interpretability
   - Causal Inference
-  - Decision Making
   - Clinical Informatics
-  - Quantifying Uncertainty
+  - AI Ethics
 
 # Education to show in About widget
 education:
@@ -120,11 +120,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Jiaming Zeng is a Senior Machine Learning Researcher at <a href="https://akasa.com/">AKASA</a>.
+Jiaming Zeng is a Senior Machine Learning Researcher at <a href="https://akasa.com/">AKASA</a>. She received her PhD from Stanford University working with <a href="https://web.stanford.edu/~shachter/">Ross Shachter</a>, <a href="https://athey.people.stanford.edu/">Susan Athey</a>, and <a href="https://profiles.stanford.edu/daniel-rubin/">Daniel Rubin</a>. Her research focused on employing causal models and machine learning to develop interpretable models for medical decision making. While an undergrad at MIT, she worked with <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a> to develop interpretable machine learning models for predicting prisoner recidivism. 
 
-Jiaming received her PhD from Stanford University working with <a href="https://web.stanford.edu/~shachter/">Ross Shachter</a>, <a href="https://athey.people.stanford.edu/">Susan Athey</a>, and <a href="https://profiles.stanford.edu/daniel-rubin/">Daniel Rubin</a>. Her research focused on employing causal models and machine learning to develop interpretable models for medical decision making. While an undergrad at MIT, she worked with <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a> to develop interpretable machine learning models for predicting prisoner recidivism. 
-
-She did her postdoc at IBM Research's Computational Health group, working on identifying and mitigating bias present in clinical data. Previously, she worked as an AI Resident at <a href="https://x.company">X, the Moonshot Factory</a> (formerly Google X) to increase sustainable fishing and protect the ocean. She was also an AI Research intern on the <a href="https://www.nvidia.com/en-us/">NVIDIA</a> AI Infrastructure team, working on practical ways to capture uncertainty in neural networks. Currently at AKASA, she leads the research and development efforts for pretraining, finetuning, and evaluting LLMs for automating clinical workflow. 
+She did her postdoc at IBM Research's Computational Health group, working on identifying and mitigating bias present in clinical data. Previously, she worked as an AI Resident at <a href="https://x.company">X, the Moonshot Factory</a> (formerly Google X) to increase sustainable fishing and protect the ocean. She was also an AI Research intern on the <a href="https://www.nvidia.com/en-us/">NVIDIA</a> AI Infrastructure team, working on practical ways to capture uncertainty in neural networks. Currently as a Senior ML Researcher AKASA, she leads the research and development efforts for pretraining, finetuning, and evaluting LLMs for automating clinical workflow. 
 
 Jiaming's research has been <a href="#featured">published</a> in channels such as Nature Communications, JCO Clinical Informatics, NeurIPS, etc. Her work has also been featured in various <a href="#news">news</a> channels. In her freetime, she enjoys reading, writing, being out in nature, and learning about other cultures.
 
