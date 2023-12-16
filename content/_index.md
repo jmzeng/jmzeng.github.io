@@ -111,27 +111,6 @@ sections:
       columns: '2'
       view: citation
   - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - organization: Stanford Institute of Human-Centered Artificial Intelligence
-          organization_url: https://hai.stanford.edu/
-          date_end: '2020-12-01'
-          date_start: '2019-09-01'
-          title: Stanford Institute of Human-Centered Artificial Intelligence Seed Grant Recipient
-          url: ''
-    design:
-      columns: '2'
-  - block: accomplishments
     id: news
     content:
       title: In the News
@@ -165,6 +144,27 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - organization: Stanford Institute of Human-Centered Artificial Intelligence
+          organization_url: https://hai.stanford.edu/
+          date_end: '2020-12-01'
+          date_start: '2019-09-01'
+          title: Stanford Institute of Human-Centered Artificial Intelligence Seed Grant Recipient
+          url: ''
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:
