@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Jiaming Zeng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiaming
+last_name: Zeng
 
 # Status emoji
 status:
@@ -17,10 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Machine Learning Researcher @ AKASA
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: AKASA
+    url: https://akasa.com/ 
   - name: Stanford University
     url: https://www.stanford.edu/
 
@@ -29,22 +28,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Natural Language Processing
+  - Causal Inference
   - Information Retrieval
+  - Quantifying Uncertainty
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Management Science and Engineering
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+      year: 2021
+    - course: MEng in Management Science and Engineering
+      institution: Stanford University
+      year: 2019
+    - course: BSc in Mathematics with Computer Science
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -100,15 +100,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=4iJfaWMAAAAJ&view_op=list_works&authuser=2 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jmzeng
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jiaming-zeng-2919a144/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiaming Zeng is a Senior Machine Learning Researcher at AKASA, where she leads the efforts in adapting LLMs for automating clinical workflow. She works on adapting existing NLP techniques to tackle challenges in the clinical setting. Her research interests include interpretable nlp, causal inference, identifying uncertainty.
 {style="text-align: justify;"}
