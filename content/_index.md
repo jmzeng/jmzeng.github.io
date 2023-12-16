@@ -125,7 +125,9 @@ sections:
       items:
         - organization: Stanford Institute of Human-Centered Artificial Intelligence
           organization_url: https://hai.stanford.edu/
-          title: Stanford Institute of Human-Centered Artificial Intelligence Seed Grant Recipient (2019)
+          date_end: '2020-12-01'
+          date_start: '2019-09-01'
+          title: Stanford Institute of Human-Centered Artificial Intelligence Seed Grant Recipient
           url: ''
     design:
       columns: '2'
