@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Machine Learning Researcher @ AKASA
+role: Senior Machine Learning Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,13 +24,13 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include interpretable NLP, causal inference, quantifying uncertainty.
 
 # Interests to show in About widget
 interests:
   - Natural Language Processing
   - Causal Inference
-  - Information Retrieval
+  - Medical Decision Making
   - Quantifying Uncertainty
 
 # Education to show in About widget
