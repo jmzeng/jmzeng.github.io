@@ -42,7 +42,7 @@ education:
       year: 2021
     - course: MEng in Management Science and Engineering
       institution: Stanford University
-      year: 2019
+      year: 2018
     - course: BSc in Mathematics with Computer Science
       institution: Massachusetts Institute of Technology
       year: 2015
