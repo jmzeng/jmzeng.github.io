@@ -147,6 +147,16 @@ sections:
           date_start: '2019-06-03'
           title: AI could help radiologists interpret mammograms more accurately
           url: https://engineering.stanford.edu/magazine/article/ai-could-help-radiologists-interpret-mammograms-more-accurately
+        - organization: MIT Technology Review
+          organization_url: https://www.technologyreview.com/
+          date_start: '2019-02-27'
+          title: My day as a double major
+          url: https://www.technologyreview.com/2019/02/27/137078/my-day-as-a-double-major/
+        - organization: Duke Today
+          organization_url: https://today.duke.edu/
+          date_start: '2019-02-27'
+          title: Opening the Lid on Criminal Sentencing Software
+          url: https://today.duke.edu/2017/07/opening-lid-criminal-sentencing-software
     design:
       columns: '2'
       view: compact
