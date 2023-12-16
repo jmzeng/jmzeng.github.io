@@ -129,16 +129,16 @@ sections:
           url: ''
     design:
       columns: '2'
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: news
+    content:
+      title: In the news
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   # - block: collection
   #   id: posts
   #   content:
