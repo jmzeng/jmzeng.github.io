@@ -9,7 +9,7 @@ date: '2018-11-01'
 publishDate: '2023-12-16T17:13:24.207440Z'
 publication_types:
 - manuscript
-publication: '*arXiv*'
+publication: Third workshop on Bayesian Deep Learning (NeurIPS 2018)
 abstract: One of the main challenges of deep learning tools is their inability to
   capture model uncertainty. While Bayesian deep learning can be used to tackle the
   problem, Bayesian neural networks often require more time and computational power
@@ -26,4 +26,6 @@ tags:
 links:
 - name: URL
   url: http://arxiv.org/abs/1811.12535
+- name: Github
+  url: https://github.com/tensorflow/probability/tree/main/tensorflow_probability/examples 
 ---

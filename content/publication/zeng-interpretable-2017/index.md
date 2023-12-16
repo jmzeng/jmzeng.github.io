@@ -26,4 +26,8 @@ featured: true
 links:
 - name: URL
   url: https://academic.oup.com/jrsssa/article-abstract/180/3/689/7070340
+- name: News
+  url: https://today.duke.edu/2017/07/opening-lid-criminal-sentencing-software
+- name: Github
+  url: https://github.com/ustunb/recidivism-prediction
 ---

@@ -14,4 +14,6 @@ publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/7263
+- name: Github
+  url: https://github.com/jmzeng/cancer_treatment_identification
 ---

@@ -39,4 +39,6 @@ abstract: We developed a probabilistic model to support the classification decis
 links:
 - name: URL
   url: http://journals.sagepub.com/doi/10.1177/0272989X19832914
+- name: News
+  url: https://engineering.stanford.edu/magazine/article/ai-could-help-radiologists-interpret-mammograms-more-accurately
 ---

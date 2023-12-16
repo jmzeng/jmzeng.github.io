@@ -157,6 +157,11 @@ sections:
           date_start: '2019-02-27'
           title: Opening the Lid on Criminal Sentencing Software
           url: https://today.duke.edu/2017/07/opening-lid-criminal-sentencing-software
+        - organization: MIT News
+          organization_url: https://news.mit.edu/
+          date_start: '2014-11-06'
+          title: Mind and hand and world
+          url: https://news.mit.edu/2014/mind-and-hand-and-world-etmundus-photo-contest-1106
     design:
       columns: '2'
       view: compact

@@ -24,5 +24,9 @@ featured: true
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-022-28546-8
+- name: News
+  url: https://hai.stanford.edu/news/using-clinical-text-combat-selection-bias-medical-research
+- name: Github
+  url: https://github.com/jmzeng/interpretable-potential-confounders
 ---
 
