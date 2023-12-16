@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
-Jiaming Zeng is a Senior Machine Learning Researcher at AKASA, where she leads the efforts in adapting LLMs for automating clinical workflow. 
+Jiaming Zeng is a Senior Machine Learning Researcher at <a href="https://akasa.com/">AKASA</a>, where she leads the efforts in adapting LLMs for automating clinical workflow. 
 
 Jiaming received her PhD from Stanford University working with <a href="https://web.stanford.edu/~shachter/">Ross Shachter</a>, <a href="https://athey.people.stanford.edu/">Susan Athey</a>, and <a href="https://profiles.stanford.edu/daniel-rubin/">Daniel Rubin</a>. Her research focused on employing causal models and machine learning to develop interpretable models for medical decision making. While an undergrad at MIT, she worked with <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a> to develop interpretable machine learning models for predicting prisoner recidivism. 
 
