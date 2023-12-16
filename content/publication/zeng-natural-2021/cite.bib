@@ -1,0 +1,30 @@
+@article{zeng_natural_2021,
+ abstract = {PURPOSE
+Knowing the treatments administered to patients with cancer is important for treatment planning and correlating treatment patterns with outcomes for personalized medicine study. However, existing methods to identify treatments are often lacking. We develop a natural language processing approach with structured electronic medical records and unstructured clinical notes to identify the initial treatment administered to patients with cancer.
+
+
+METHODS
+We used a total number of 4,412 patients with 483,782 clinical notes from the Stanford Cancer Institute Research Database containing patients with nonmetastatic prostate, oropharynx, and esophagus cancer. We trained treatment identification models for each cancer type separately and compared performance of using only structured, only unstructured ( bag-of-words, doc2vec, fasttext), and combinations of both ( structured + bow, structured + doc2vec, structured + fasttext). We optimized the identification model among five machine learning methods (logistic regression, multilayer perceptrons, random forest, support vector machines, and stochastic gradient boosting). The treatment information recorded in the cancer registry is the gold standard and compares our methods to an identification baseline with billing codes.
+
+
+RESULTS
+For prostate cancer, we achieved an f1-score of 0.99 (95% CI, 0.97 to 1.00) for radiation and 1.00 (95% CI, 0.99 to 1.00) for surgery using structured + doc2vec. For oropharynx cancer, we achieved an f1-score of 0.78 (95% CI, 0.58 to 0.93) for chemoradiation and 0.83 (95% CI, 0.69 to 0.95) for surgery using doc2vec. For esophagus cancer, we achieved an f1-score of 1.0 (95% CI, 1.0 to 1.0) for both chemoradiation and surgery using all combinations of structured and unstructured data. We found that employing the free-text clinical notes outperforms using the billing codes or only structured data for all three cancer types.
+
+
+CONCLUSION
+Our results show that treatment identification using free-text clinical notes greatly improves upon the performance using billing codes and simple structured data. The approach can be used for treatment cohort identification and adapted for longitudinal cancer treatment identification.},
+ author = {Zeng, Jiaming and Banerjee, Imon and Henry, A. Solomon and Wood, Douglas J. and Shachter, Ross D. and Gensheimer, Michael F. and Rubin, Daniel L.},
+ copyright = {All rights reserved},
+ doi = {10.1200/CCI.20.00173},
+ file = {Available Version (via Google Scholar):/Users/jiaming/Zotero/storage/VXEEVC6Q/Zeng et al. - 2021 - Natural Language Processing to Identify Cancer Tre.pdf:application/pdf},
+ issn = {2473-4276},
+ journal = {JCO Clinical Cancer Informatics},
+ language = {en},
+ month = {December},
+ number = {5},
+ pages = {379--393},
+ title = {Natural Language Processing to Identify Cancer Treatments With Electronic Medical Records},
+ url = {https://ascopubs.org/doi/10.1200/CCI.20.00173},
+ urldate = {2023-12-16},
+ year = {2021}
+}
