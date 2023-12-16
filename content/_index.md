@@ -157,12 +157,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - organization: X, The Moonshot Factory
+          organization_url: https://x.company/
+          date_start: '2019-06-22'
+          title: AI Residency Program
+          url: ''
         - organization: Stanford Institute of Human-Centered Artificial Intelligence
           organization_url: https://hai.stanford.edu/
           date_end: '2020-12-01'
           date_start: '2019-09-01'
           title: Stanford Institute of Human-Centered Artificial Intelligence Seed Grant Recipient
           url: ''
+        - organization: The Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)
+          organization_url: https://www.causeweb.org/usproc/
+          date_start: '2015-05-26'
+          title: 1st Place, USPROC Undergraduate Statistics Research Project Competition
+          url: https://www.causeweb.org/usproc/usresp/2015/winners
+        - organization: National Oceanic and Atmospheric Administration
+          organization_url: https://www.noaa.gov/
+          date_start: '2013-05-26'
+          title: NOAA Hollings Scholarship
+          url: ''
+
+          
     design:
       columns: '2'
   # - block: collection
