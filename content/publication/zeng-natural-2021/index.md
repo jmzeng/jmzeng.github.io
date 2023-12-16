@@ -14,7 +14,6 @@ publishDate: '2023-12-16T17:13:24.193043Z'
 publication_types:
 - article-journal
 publication: '*JCO Clinical Cancer Informatics*'
-doi: 10.1200/CCI.20.00173
 abstract: PURPOSE Knowing the treatments administered to patients with cancer is important
   for treatment planning and correlating treatment patterns with outcomes for personalized
   medicine study. However, existing methods to identify treatments are often lacking.
