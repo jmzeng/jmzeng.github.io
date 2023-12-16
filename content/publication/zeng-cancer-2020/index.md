@@ -17,5 +17,5 @@ links:
 - name: Github
   url: https://github.com/jmzeng/cancer_treatment_identification
 - name: Poster
-  link: uploads/aaai-sa-poster.pdf
+  url: https://jmzeng.github.io/uploads/aaai-sa-poster.pdf
 ---

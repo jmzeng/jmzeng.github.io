@@ -31,5 +31,5 @@ links:
 - name: Github
   url: https://github.com/tensorflow/probability/tree/main/tensorflow_probability/examples 
 - name: Poster
-  link: uploads/BDL-Poster-A-1_v2.pdf
+  url: https://jmzeng.github.io/uploads/BDL-Poster-A-1_v2.pdf
 ---
