@@ -116,6 +116,11 @@ sections:
       title: In the News
       date_format: Jan 2006
       items:
+        - organization: AKASA
+          organization_url: https://akasa.com/
+          date_start: '2022-11-01'
+          title: Mining Electronic Medical Records for Cancer Treatment Decisions
+          url: https://akasa.com/blog/machine-learning-in-emr/
         - organization: Stanford Institute of Human-Centered Artificial Intelligence
           organization_url: https://hai.stanford.edu/
           date_start: '2021-03-29'
