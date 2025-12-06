@@ -116,6 +116,16 @@ sections:
       title: In the News
       date_format: Jan 2006
       items:
+        - organization: Google Cloud
+          organization_url: https://cloud.google.com/
+          date_start: '2025-11-13'
+          title: Talk with and trust your data using Looker’s Conversational Analytics, now GA
+          url: https://cloud.google.com/blog/products/business-intelligence/looker-conversational-analytics-now-ga/
+        - organization: AKASA
+          organization_url: https://akasa.com/
+          date_start: '2022-11-01'
+          title: Mining Electronic Medical Records for Cancer Treatment Decisions
+          url: https://akasa.com/blog/machine-learning-in-emr/
         - organization: AKASA
           organization_url: https://akasa.com/
           date_start: '2022-11-01'
